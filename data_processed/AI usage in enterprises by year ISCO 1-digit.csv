@@ -1,0 +1,41 @@
+Year,ISCO,Occupation,"The enterprise uses Artificial Intelligence (AI) technologies, % of enterprises","AI technologies performing analysis of written language (text mining), % of enterprises","AI technologies converting spoken language into machine-readable format (speech recognition), % of enterprises","AI technologies generating written or spoken language or programming code (natural language generation), % of enterprises","AI Technologies generating pictures, videos, sound/audio, % of enterprises","AI technologies identifying objects or persons based on images or videos (image recognition, image processing), % of enterprises","Machine learning for data analysis, % of enterprises","AI technologies automating workflows or assisting in decision-making (AI-based software robotic process automation), % of enterprises","AI technologies enabling physical movement of machines via autonomous decisions based on observation of surroundings (autonomous robots, self-driving vehicles, autonomous drones), % of enterprises"
+2021,OC1,Managers,21.183,7.474,4.013,3.234,,5.785,9.711,12.380,2.928
+2021,OC2,Professionals,26.684,9.884,5.562,4.262,,7.624,13.580,16.131,3.490
+2021,OC3,Technicians and associate professionals,19.190,6.960,3.542,2.879,,5.392,8.305,11.017,2.716
+2021,OC4,Clerical support workers,15.676,5.908,3.009,2.487,,4.473,6.400,8.892,2.270
+2021,OC5,Service and sales workers,12.114,4.493,2.416,1.859,,3.194,3.807,6.032,1.196
+2021,OC7,Craft and related trades workers,13.175,3.546,1.786,1.963,,2.790,4.214,7.060,2.260
+2021,OC8,Plant and machine operators and assemblers,11.494,3.132,1.232,1.618,,2.535,3.848,6.733,2.683
+2021,OC9,Elementary occupations,11.828,4.684,2.412,2.360,,3.708,3.376,5.784,1.324
+2022,OC1,Managers,,,,,,,,,
+2022,OC2,Professionals,,,,,,,,,
+2022,OC3,Technicians and associate professionals,,,,,,,,,
+2022,OC4,Clerical support workers,,,,,,,,,
+2022,OC5,Service and sales workers,,,,,,,,,
+2022,OC7,Craft and related trades workers,,,,,,,,,
+2022,OC8,Plant and machine operators and assemblers,,,,,,,,,
+2022,OC9,Elementary occupations,,,,,,,,,
+2023,OC1,Managers,20.819,10.170,5.681,6.393,,5.103,9.739,11.475,2.539
+2023,OC2,Professionals,28.119,14.907,8.348,9.063,,7.399,14.402,15.055,3.509
+2023,OC3,Technicians and associate professionals,18.420,8.273,4.864,5.429,,3.993,8.220,10.542,2.166
+2023,OC4,Clerical support workers,15.325,6.403,3.962,4.461,,3.129,6.782,9.092,1.952
+2023,OC5,Service and sales workers,10.072,3.797,2.186,3.474,,1.574,3.412,6.086,1.143
+2023,OC7,Craft and related trades workers,10.097,3.330,1.863,2.127,,1.923,3.265,5.839,1.070
+2023,OC8,Plant and machine operators and assemblers,10.500,3.305,1.939,2.004,,2.591,3.788,6.597,1.737
+2023,OC9,Elementary occupations,9.943,3.323,1.930,2.439,,1.327,4.343,6.832,1.046
+2024,OC1,Managers,32.467,20.952,11.155,18.752,,7.835,13.867,14.223,3.274
+2024,OC2,Professionals,41.423,26.481,15.682,25.545,,10.441,19.410,19.151,3.941
+2024,OC3,Technicians and associate professionals,29.083,18.531,9.420,16.139,,6.701,11.726,12.673,3.007
+2024,OC4,Clerical support workers,23.690,14.686,7.185,12.423,,4.965,9.432,10.564,2.445
+2024,OC5,Service and sales workers,20.294,14.006,4.909,8.156,,3.683,6.862,7.547,2.082
+2024,OC7,Craft and related trades workers,17.777,11.019,4.376,9.548,,4.151,5.659,7.435,2.061
+2024,OC8,Plant and machine operators and assemblers,14.781,8.324,3.515,7.608,,3.052,5.035,6.293,1.917
+2024,OC9,Elementary occupations,18.171,11.597,4.369,7.808,,2.501,6.196,8.096,1.763
+2025,OC1,Managers,47.998,37.084,20.389,27.314,28.726,10.956,18.768,20.193,3.839
+2025,OC2,Professionals,58.551,46.557,26.721,35.492,36.117,14.202,25.852,26.295,4.839
+2025,OC3,Technicians and associate professionals,44.230,34.168,18.200,24.320,26.071,9.753,16.548,18.271,3.368
+2025,OC4,Clerical support workers,36.823,28.065,14.205,19.692,21.641,7.794,13.117,15.606,2.774
+2025,OC5,Service and sales workers,33.228,23.430,10.440,16.458,19.761,6.672,8.515,12.898,2.515
+2025,OC7,Craft and related trades workers,30.557,21.989,11.859,14.020,14.704,5.115,8.679,9.772,2.141
+2025,OC8,Plant and machine operators and assemblers,24.505,17.694,8.586,11.333,12.968,4.425,7.166,9.424,1.964
+2025,OC9,Elementary occupations,30.331,21.636,9.782,15.195,17.035,5.399,8.080,11.971,2.168
