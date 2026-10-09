@@ -4,8 +4,8 @@ import re
 import pandas as pd
 
 
-INPUT_PATH = Path("../data/Unemployment by occupation by month.csv")
-OUTPUT_PATH = Path("../data_processed/Unemployment by year ISCO 1-digit.csv")
+INPUT_PATH = Path("../Data-science-mini-project/data/Unemployment by occupation by month.csv")
+OUTPUT_PATH = Path("../Data-science-mini-project/data_processed/Unemployment by year ISCO 1-digit.csv")
 
 UNEMPLOYMENT_SERIES = "Unemployed jobseekers on calculation date (number)"
 
