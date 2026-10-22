@@ -13,8 +13,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-AI_FILE = "../Data-science-mini-project/data_processed/AI usage in enterprises by year ISCO 1-digit.csv"
-UNEMP_FILE = "../Data-science-mini-project/data_processed/Unemployment by year ISCO 1-digit.csv"
+AI_FILE = "../../data_processed/AI usage in enterprises by year ISCO 1-digit.csv"
+UNEMP_FILE = "../../data_processed/Unemployment by year ISCO 1-digit.csv"
 AI_COL = "The enterprise uses Artificial Intelligence (AI) technologies, % of enterprises"
 UNEMP_COL = "Unemployed jobseekers"
 

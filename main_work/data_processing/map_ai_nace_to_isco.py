@@ -4,9 +4,9 @@ import numpy as np
 import pandas as pd
 
 
-EMPLOYMENT_PATH = Path("../data/Eurostat employment by NACE and ISCO.csv")
-AI_PATH = Path("../data/AI usage in enterprises by year.csv")
-OUTPUT_PATH = Path("../data_processed/AI usage in enterprises by year ISCO 1-digit.csv")
+EMPLOYMENT_PATH = Path("../../data/Eurostat employment by NACE and ISCO.csv")
+AI_PATH = Path("../../data/AI usage in enterprises by year.csv")
+OUTPUT_PATH = Path("../../data_processed/AI usage in enterprises by year ISCO 1-digit.csv")
 
 # Use a single 2021-2025 average employment structure to reduce year-to-year
 # sampling noise in the EU-LFS NACE x ISCO cells.
