@@ -1,0 +1,1689 @@
+Month,ISCO,Occupation,Unemployed jobseekers
+2009M01,OC1,Managers,2380
+2009M01,OC2,Professionals,23945
+2009M01,OC3,Technicians and associate professionals,21100
+2009M01,OC4,Clerical support workers,16032
+2009M01,OC5,Service and sales workers,33428
+2009M01,OC7,Craft and related trades workers,54852
+2009M01,OC8,Plant and machine operators and assemblers,23255
+2009M01,OC9,Elementary occupations,26095
+2009M02,OC1,Managers,2398
+2009M02,OC2,Professionals,24372
+2009M02,OC3,Technicians and associate professionals,21259
+2009M02,OC4,Clerical support workers,15799
+2009M02,OC5,Service and sales workers,32608
+2009M02,OC7,Craft and related trades workers,57691
+2009M02,OC8,Plant and machine operators and assemblers,24265
+2009M02,OC9,Elementary occupations,26259
+2009M03,OC1,Managers,2413
+2009M03,OC2,Professionals,24478
+2009M03,OC3,Technicians and associate professionals,21250
+2009M03,OC4,Clerical support workers,15707
+2009M03,OC5,Service and sales workers,31176
+2009M03,OC7,Craft and related trades workers,59789
+2009M03,OC8,Plant and machine operators and assemblers,25127
+2009M03,OC9,Elementary occupations,26070
+2009M04,OC1,Managers,2451
+2009M04,OC2,Professionals,25907
+2009M04,OC3,Technicians and associate professionals,21663
+2009M04,OC4,Clerical support workers,15895
+2009M04,OC5,Service and sales workers,31223
+2009M04,OC7,Craft and related trades workers,59132
+2009M04,OC8,Plant and machine operators and assemblers,25975
+2009M04,OC9,Elementary occupations,25561
+2009M05,OC1,Managers,2549
+2009M05,OC2,Professionals,27639
+2009M05,OC3,Technicians and associate professionals,21818
+2009M05,OC4,Clerical support workers,15898
+2009M05,OC5,Service and sales workers,31594
+2009M05,OC7,Craft and related trades workers,54578
+2009M05,OC8,Plant and machine operators and assemblers,24364
+2009M05,OC9,Elementary occupations,24282
+2009M06,OC1,Managers,2761
+2009M06,OC2,Professionals,35563
+2009M06,OC3,Technicians and associate professionals,24731
+2009M06,OC4,Clerical support workers,17554
+2009M06,OC5,Service and sales workers,41042
+2009M06,OC7,Craft and related trades workers,56196
+2009M06,OC8,Plant and machine operators and assemblers,24201
+2009M06,OC9,Elementary occupations,25202
+2009M07,OC1,Managers,2943
+2009M07,OC2,Professionals,38520
+2009M07,OC3,Technicians and associate professionals,26501
+2009M07,OC4,Clerical support workers,18419
+2009M07,OC5,Service and sales workers,43624
+2009M07,OC7,Craft and related trades workers,58282
+2009M07,OC8,Plant and machine operators and assemblers,25036
+2009M07,OC9,Elementary occupations,25984
+2009M08,OC1,Managers,2822
+2009M08,OC2,Professionals,32364
+2009M08,OC3,Technicians and associate professionals,24468
+2009M08,OC4,Clerical support workers,17614
+2009M08,OC5,Service and sales workers,36960
+2009M08,OC7,Craft and related trades workers,58310
+2009M08,OC8,Plant and machine operators and assemblers,24792
+2009M08,OC9,Elementary occupations,24962
+2009M09,OC1,Managers,2731
+2009M09,OC2,Professionals,29625
+2009M09,OC3,Technicians and associate professionals,24161
+2009M09,OC4,Clerical support workers,17392
+2009M09,OC5,Service and sales workers,36795
+2009M09,OC7,Craft and related trades workers,59701
+2009M09,OC8,Plant and machine operators and assemblers,25136
+2009M09,OC9,Elementary occupations,25299
+2009M10,OC1,Managers,2804
+2009M10,OC2,Professionals,29424
+2009M10,OC3,Technicians and associate professionals,24388
+2009M10,OC4,Clerical support workers,17464
+2009M10,OC5,Service and sales workers,37174
+2009M10,OC7,Craft and related trades workers,61830
+2009M10,OC8,Plant and machine operators and assemblers,25696
+2009M10,OC9,Elementary occupations,25909
+2009M11,OC1,Managers,2763
+2009M11,OC2,Professionals,29333
+2009M11,OC3,Technicians and associate professionals,24365
+2009M11,OC4,Clerical support workers,17369
+2009M11,OC5,Service and sales workers,36787
+2009M11,OC7,Craft and related trades workers,64277
+2009M11,OC8,Plant and machine operators and assemblers,26734
+2009M11,OC9,Elementary occupations,26725
+2009M12,OC1,Managers,2931
+2009M12,OC2,Professionals,33260
+2009M12,OC3,Technicians and associate professionals,26952
+2009M12,OC4,Clerical support workers,18536
+2009M12,OC5,Service and sales workers,40211
+2009M12,OC7,Craft and related trades workers,72219
+2009M12,OC8,Plant and machine operators and assemblers,29215
+2009M12,OC9,Elementary occupations,28852
+2010M01,OC1,Managers,2810
+2010M01,OC2,Professionals,31207
+2010M01,OC3,Technicians and associate professionals,26122
+2010M01,OC4,Clerical support workers,18235
+2010M01,OC5,Service and sales workers,38930
+2010M01,OC7,Craft and related trades workers,70666
+2010M01,OC8,Plant and machine operators and assemblers,28186
+2010M01,OC9,Elementary occupations,28801
+2010M02,OC1,Managers,2789
+2010M02,OC2,Professionals,30289
+2010M02,OC3,Technicians and associate professionals,25133
+2010M02,OC4,Clerical support workers,17662
+2010M02,OC5,Service and sales workers,37033
+2010M02,OC7,Craft and related trades workers,68592
+2010M02,OC8,Plant and machine operators and assemblers,27499
+2010M02,OC9,Elementary occupations,27895
+2010M03,OC1,Managers,2790
+2010M03,OC2,Professionals,29309
+2010M03,OC3,Technicians and associate professionals,24014
+2010M03,OC4,Clerical support workers,16954
+2010M03,OC5,Service and sales workers,34656
+2010M03,OC7,Craft and related trades workers,65635
+2010M03,OC8,Plant and machine operators and assemblers,26307
+2010M03,OC9,Elementary occupations,26639
+2010M04,OC1,Managers,2730
+2010M04,OC2,Professionals,29397
+2010M04,OC3,Technicians and associate professionals,23633
+2010M04,OC4,Clerical support workers,16758
+2010M04,OC5,Service and sales workers,34277
+2010M04,OC7,Craft and related trades workers,60066
+2010M04,OC8,Plant and machine operators and assemblers,25053
+2010M04,OC9,Elementary occupations,25706
+2010M05,OC1,Managers,2732
+2010M05,OC2,Professionals,30391
+2010M05,OC3,Technicians and associate professionals,23305
+2010M05,OC4,Clerical support workers,16604
+2010M05,OC5,Service and sales workers,34945
+2010M05,OC7,Craft and related trades workers,53986
+2010M05,OC8,Plant and machine operators and assemblers,22530
+2010M05,OC9,Elementary occupations,24127
+2010M06,OC1,Managers,2875
+2010M06,OC2,Professionals,37100
+2010M06,OC3,Technicians and associate professionals,25436
+2010M06,OC4,Clerical support workers,17773
+2010M06,OC5,Service and sales workers,42262
+2010M06,OC7,Craft and related trades workers,53681
+2010M06,OC8,Plant and machine operators and assemblers,22245
+2010M06,OC9,Elementary occupations,24484
+2010M07,OC1,Managers,2978
+2010M07,OC2,Professionals,39793
+2010M07,OC3,Technicians and associate professionals,26835
+2010M07,OC4,Clerical support workers,18448
+2010M07,OC5,Service and sales workers,44754
+2010M07,OC7,Craft and related trades workers,54753
+2010M07,OC8,Plant and machine operators and assemblers,23102
+2010M07,OC9,Elementary occupations,25319
+2010M08,OC1,Managers,2754
+2010M08,OC2,Professionals,31955
+2010M08,OC3,Technicians and associate professionals,23726
+2010M08,OC4,Clerical support workers,17016
+2010M08,OC5,Service and sales workers,36483
+2010M08,OC7,Craft and related trades workers,50953
+2010M08,OC8,Plant and machine operators and assemblers,21636
+2010M08,OC9,Elementary occupations,23653
+2010M09,OC1,Managers,2609
+2010M09,OC2,Professionals,28285
+2010M09,OC3,Technicians and associate professionals,22435
+2010M09,OC4,Clerical support workers,16282
+2010M09,OC5,Service and sales workers,35499
+2010M09,OC7,Craft and related trades workers,49745
+2010M09,OC8,Plant and machine operators and assemblers,21314
+2010M09,OC9,Elementary occupations,23269
+2010M10,OC1,Managers,2626
+2010M10,OC2,Professionals,27344
+2010M10,OC3,Technicians and associate professionals,22291
+2010M10,OC4,Clerical support workers,16030
+2010M10,OC5,Service and sales workers,35495
+2010M10,OC7,Craft and related trades workers,50464
+2010M10,OC8,Plant and machine operators and assemblers,21508
+2010M10,OC9,Elementary occupations,23609
+2010M11,OC1,Managers,2593
+2010M11,OC2,Professionals,26683
+2010M11,OC3,Technicians and associate professionals,21919
+2010M11,OC4,Clerical support workers,15662
+2010M11,OC5,Service and sales workers,34477
+2010M11,OC7,Craft and related trades workers,52827
+2010M11,OC8,Plant and machine operators and assemblers,22283
+2010M11,OC9,Elementary occupations,24203
+2010M12,OC1,Managers,2726
+2010M12,OC2,Professionals,29613
+2010M12,OC3,Technicians and associate professionals,24044
+2010M12,OC4,Clerical support workers,16742
+2010M12,OC5,Service and sales workers,38554
+2010M12,OC7,Craft and related trades workers,59607
+2010M12,OC8,Plant and machine operators and assemblers,24490
+2010M12,OC9,Elementary occupations,26428
+2011M01,OC1,Managers,2668
+2011M01,OC2,Professionals,28502
+2011M01,OC3,Technicians and associate professionals,23533
+2011M01,OC4,Clerical support workers,16593
+2011M01,OC5,Service and sales workers,37315
+2011M01,OC7,Craft and related trades workers,59701
+2011M01,OC8,Plant and machine operators and assemblers,24333
+2011M01,OC9,Elementary occupations,26426
+2011M02,OC1,Managers,2603
+2011M02,OC2,Professionals,27669
+2011M02,OC3,Technicians and associate professionals,22671
+2011M02,OC4,Clerical support workers,16093
+2011M02,OC5,Service and sales workers,35651
+2011M02,OC7,Craft and related trades workers,58859
+2011M02,OC8,Plant and machine operators and assemblers,23917
+2011M02,OC9,Elementary occupations,25735
+2011M03,OC1,Managers,2515
+2011M03,OC2,Professionals,26554
+2011M03,OC3,Technicians and associate professionals,21689
+2011M03,OC4,Clerical support workers,15395
+2011M03,OC5,Service and sales workers,33533
+2011M03,OC7,Craft and related trades workers,55886
+2011M03,OC8,Plant and machine operators and assemblers,22931
+2011M03,OC9,Elementary occupations,24688
+2011M04,OC1,Managers,2482
+2011M04,OC2,Professionals,26433
+2011M04,OC3,Technicians and associate professionals,20888
+2011M04,OC4,Clerical support workers,15265
+2011M04,OC5,Service and sales workers,32457
+2011M04,OC7,Craft and related trades workers,52107
+2011M04,OC8,Plant and machine operators and assemblers,22020
+2011M04,OC9,Elementary occupations,23612
+2011M05,OC1,Managers,2460
+2011M05,OC2,Professionals,27434
+2011M05,OC3,Technicians and associate professionals,20745
+2011M05,OC4,Clerical support workers,15149
+2011M05,OC5,Service and sales workers,32665
+2011M05,OC7,Craft and related trades workers,45333
+2011M05,OC8,Plant and machine operators and assemblers,19837
+2011M05,OC9,Elementary occupations,22045
+2011M06,OC1,Managers,2599
+2011M06,OC2,Professionals,34157
+2011M06,OC3,Technicians and associate professionals,23113
+2011M06,OC4,Clerical support workers,16584
+2011M06,OC5,Service and sales workers,40522
+2011M06,OC7,Craft and related trades workers,46402
+2011M06,OC8,Plant and machine operators and assemblers,19982
+2011M06,OC9,Elementary occupations,22798
+2011M07,OC1,Managers,2725
+2011M07,OC2,Professionals,36602
+2011M07,OC3,Technicians and associate professionals,24480
+2011M07,OC4,Clerical support workers,17335
+2011M07,OC5,Service and sales workers,43438
+2011M07,OC7,Craft and related trades workers,47780
+2011M07,OC8,Plant and machine operators and assemblers,20557
+2011M07,OC9,Elementary occupations,23738
+2011M08,OC1,Managers,2592
+2011M08,OC2,Professionals,29573
+2011M08,OC3,Technicians and associate professionals,21934
+2011M08,OC4,Clerical support workers,16072
+2011M08,OC5,Service and sales workers,35537
+2011M08,OC7,Craft and related trades workers,44157
+2011M08,OC8,Plant and machine operators and assemblers,19373
+2011M08,OC9,Elementary occupations,22072
+2011M09,OC1,Managers,2480
+2011M09,OC2,Professionals,26242
+2011M09,OC3,Technicians and associate professionals,20880
+2011M09,OC4,Clerical support workers,15539
+2011M09,OC5,Service and sales workers,34193
+2011M09,OC7,Craft and related trades workers,43304
+2011M09,OC8,Plant and machine operators and assemblers,19401
+2011M09,OC9,Elementary occupations,21809
+2011M10,OC1,Managers,2489
+2011M10,OC2,Professionals,25580
+2011M10,OC3,Technicians and associate professionals,20785
+2011M10,OC4,Clerical support workers,15386
+2011M10,OC5,Service and sales workers,34564
+2011M10,OC7,Craft and related trades workers,44523
+2011M10,OC8,Plant and machine operators and assemblers,20111
+2011M10,OC9,Elementary occupations,22380
+2011M11,OC1,Managers,2471
+2011M11,OC2,Professionals,25503
+2011M11,OC3,Technicians and associate professionals,20720
+2011M11,OC4,Clerical support workers,15180
+2011M11,OC5,Service and sales workers,33778
+2011M11,OC7,Craft and related trades workers,46737
+2011M11,OC8,Plant and machine operators and assemblers,20894
+2011M11,OC9,Elementary occupations,22900
+2011M12,OC1,Managers,2590
+2011M12,OC2,Professionals,28813
+2011M12,OC3,Technicians and associate professionals,22771
+2011M12,OC4,Clerical support workers,16201
+2011M12,OC5,Service and sales workers,37126
+2011M12,OC7,Craft and related trades workers,53175
+2011M12,OC8,Plant and machine operators and assemblers,23182
+2011M12,OC9,Elementary occupations,24962
+2012M01,OC1,Managers,2579
+2012M01,OC2,Professionals,28089
+2012M01,OC3,Technicians and associate professionals,22694
+2012M01,OC4,Clerical support workers,16152
+2012M01,OC5,Service and sales workers,36431
+2012M01,OC7,Craft and related trades workers,56018
+2012M01,OC8,Plant and machine operators and assemblers,23720
+2012M01,OC9,Elementary occupations,25440
+2012M02,OC1,Managers,2583
+2012M02,OC2,Professionals,27494
+2012M02,OC3,Technicians and associate professionals,22129
+2012M02,OC4,Clerical support workers,15699
+2012M02,OC5,Service and sales workers,35203
+2012M02,OC7,Craft and related trades workers,55944
+2012M02,OC8,Plant and machine operators and assemblers,23287
+2012M02,OC9,Elementary occupations,25099
+2012M03,OC1,Managers,2581
+2012M03,OC2,Professionals,26971
+2012M03,OC3,Technicians and associate professionals,21316
+2012M03,OC4,Clerical support workers,15306
+2012M03,OC5,Service and sales workers,33374
+2012M03,OC7,Craft and related trades workers,54298
+2012M03,OC8,Plant and machine operators and assemblers,22739
+2012M03,OC9,Elementary occupations,24272
+2012M04,OC1,Managers,2525
+2012M04,OC2,Professionals,27236
+2012M04,OC3,Technicians and associate professionals,20973
+2012M04,OC4,Clerical support workers,15228
+2012M04,OC5,Service and sales workers,33150
+2012M04,OC7,Craft and related trades workers,50710
+2012M04,OC8,Plant and machine operators and assemblers,21953
+2012M04,OC9,Elementary occupations,23509
+2012M05,OC1,Managers,2543
+2012M05,OC2,Professionals,28427
+2012M05,OC3,Technicians and associate professionals,20679
+2012M05,OC4,Clerical support workers,15134
+2012M05,OC5,Service and sales workers,33388
+2012M05,OC7,Craft and related trades workers,44799
+2012M05,OC8,Plant and machine operators and assemblers,19938
+2012M05,OC9,Elementary occupations,21995
+2012M06,OC1,Managers,2753
+2012M06,OC2,Professionals,35682
+2012M06,OC3,Technicians and associate professionals,23437
+2012M06,OC4,Clerical support workers,16358
+2012M06,OC5,Service and sales workers,41747
+2012M06,OC7,Craft and related trades workers,46440
+2012M06,OC8,Plant and machine operators and assemblers,20540
+2012M06,OC9,Elementary occupations,22978
+2012M07,OC1,Managers,2901
+2012M07,OC2,Professionals,38438
+2012M07,OC3,Technicians and associate professionals,25026
+2012M07,OC4,Clerical support workers,17315
+2012M07,OC5,Service and sales workers,44811
+2012M07,OC7,Craft and related trades workers,48588
+2012M07,OC8,Plant and machine operators and assemblers,21646
+2012M07,OC9,Elementary occupations,23914
+2012M08,OC1,Managers,2793
+2012M08,OC2,Professionals,31765
+2012M08,OC3,Technicians and associate professionals,22694
+2012M08,OC4,Clerical support workers,16162
+2012M08,OC5,Service and sales workers,36865
+2012M08,OC7,Craft and related trades workers,46407
+2012M08,OC8,Plant and machine operators and assemblers,20757
+2012M08,OC9,Elementary occupations,22594
+2012M09,OC1,Managers,2763
+2012M09,OC2,Professionals,29656
+2012M09,OC3,Technicians and associate professionals,22383
+2012M09,OC4,Clerical support workers,15963
+2012M09,OC5,Service and sales workers,36302
+2012M09,OC7,Craft and related trades workers,47339
+2012M09,OC8,Plant and machine operators and assemblers,21237
+2012M09,OC9,Elementary occupations,22711
+2012M10,OC1,Managers,2809
+2012M10,OC2,Professionals,29956
+2012M10,OC3,Technicians and associate professionals,22813
+2012M10,OC4,Clerical support workers,16247
+2012M10,OC5,Service and sales workers,37598
+2012M10,OC7,Craft and related trades workers,50919
+2012M10,OC8,Plant and machine operators and assemblers,22381
+2012M10,OC9,Elementary occupations,23621
+2012M11,OC1,Managers,2830
+2012M11,OC2,Professionals,30207
+2012M11,OC3,Technicians and associate professionals,22812
+2012M11,OC4,Clerical support workers,16136
+2012M11,OC5,Service and sales workers,37047
+2012M11,OC7,Craft and related trades workers,54476
+2012M11,OC8,Plant and machine operators and assemblers,23451
+2012M11,OC9,Elementary occupations,24338
+2012M12,OC1,Managers,2969
+2012M12,OC2,Professionals,33413
+2012M12,OC3,Technicians and associate professionals,25152
+2012M12,OC4,Clerical support workers,17110
+2012M12,OC5,Service and sales workers,40215
+2012M12,OC7,Craft and related trades workers,61811
+2012M12,OC8,Plant and machine operators and assemblers,25606
+2012M12,OC9,Elementary occupations,26331
+2013M01,OC1,Managers,3011
+2013M01,OC2,Professionals,33710
+2013M01,OC3,Technicians and associate professionals,25939
+2013M01,OC4,Clerical support workers,17724
+2013M01,OC5,Service and sales workers,41304
+2013M01,OC7,Craft and related trades workers,64661
+2013M01,OC8,Plant and machine operators and assemblers,26490
+2013M01,OC9,Elementary occupations,27313
+2013M02,OC1,Managers,3001
+2013M02,OC2,Professionals,33638
+2013M02,OC3,Technicians and associate professionals,25748
+2013M02,OC4,Clerical support workers,17517
+2013M02,OC5,Service and sales workers,40615
+2013M02,OC7,Craft and related trades workers,64950
+2013M02,OC8,Plant and machine operators and assemblers,26384
+2013M02,OC9,Elementary occupations,27128
+2013M03,OC1,Managers,2961
+2013M03,OC2,Professionals,33249
+2013M03,OC3,Technicians and associate professionals,25292
+2013M03,OC4,Clerical support workers,17327
+2013M03,OC5,Service and sales workers,39488
+2013M03,OC7,Craft and related trades workers,64579
+2013M03,OC8,Plant and machine operators and assemblers,25941
+2013M03,OC9,Elementary occupations,26613
+2013M04,OC1,Managers,3016
+2013M04,OC2,Professionals,33618
+2013M04,OC3,Technicians and associate professionals,25051
+2013M04,OC4,Clerical support workers,17164
+2013M04,OC5,Service and sales workers,39356
+2013M04,OC7,Craft and related trades workers,60457
+2013M04,OC8,Plant and machine operators and assemblers,25172
+2013M04,OC9,Elementary occupations,26157
+2013M05,OC1,Managers,3009
+2013M05,OC2,Professionals,35001
+2013M05,OC3,Technicians and associate professionals,24928
+2013M05,OC4,Clerical support workers,17050
+2013M05,OC5,Service and sales workers,39447
+2013M05,OC7,Craft and related trades workers,54059
+2013M05,OC8,Plant and machine operators and assemblers,22991
+2013M05,OC9,Elementary occupations,24599
+2013M06,OC1,Managers,3185
+2013M06,OC2,Professionals,42686
+2013M06,OC3,Technicians and associate professionals,27700
+2013M06,OC4,Clerical support workers,18298
+2013M06,OC5,Service and sales workers,49156
+2013M06,OC7,Craft and related trades workers,56450
+2013M06,OC8,Plant and machine operators and assemblers,23398
+2013M06,OC9,Elementary occupations,25397
+2013M07,OC1,Managers,3388
+2013M07,OC2,Professionals,45840
+2013M07,OC3,Technicians and associate professionals,29355
+2013M07,OC4,Clerical support workers,19196
+2013M07,OC5,Service and sales workers,53095
+2013M07,OC7,Craft and related trades workers,57520
+2013M07,OC8,Plant and machine operators and assemblers,24124
+2013M07,OC9,Elementary occupations,26452
+2013M08,OC1,Managers,3270
+2013M08,OC2,Professionals,39563
+2013M08,OC3,Technicians and associate professionals,27369
+2013M08,OC4,Clerical support workers,18224
+2013M08,OC5,Service and sales workers,44629
+2013M08,OC7,Craft and related trades workers,55614
+2013M08,OC8,Plant and machine operators and assemblers,23240
+2013M08,OC9,Elementary occupations,25261
+2013M09,OC1,Managers,3184
+2013M09,OC2,Professionals,36976
+2013M09,OC3,Technicians and associate professionals,27142
+2013M09,OC4,Clerical support workers,18041
+2013M09,OC5,Service and sales workers,44620
+2013M09,OC7,Craft and related trades workers,56846
+2013M09,OC8,Plant and machine operators and assemblers,23828
+2013M09,OC9,Elementary occupations,25288
+2013M10,OC1,Managers,3200
+2013M10,OC2,Professionals,36853
+2013M10,OC3,Technicians and associate professionals,27623
+2013M10,OC4,Clerical support workers,18202
+2013M10,OC5,Service and sales workers,45194
+2013M10,OC7,Craft and related trades workers,58512
+2013M10,OC8,Plant and machine operators and assemblers,24638
+2013M10,OC9,Elementary occupations,25845
+2013M11,OC1,Managers,3200
+2013M11,OC2,Professionals,37217
+2013M11,OC3,Technicians and associate professionals,27814
+2013M11,OC4,Clerical support workers,18225
+2013M11,OC5,Service and sales workers,44662
+2013M11,OC7,Craft and related trades workers,61932
+2013M11,OC8,Plant and machine operators and assemblers,25780
+2013M11,OC9,Elementary occupations,26513
+2013M12,OC1,Managers,3358
+2013M12,OC2,Professionals,41157
+2013M12,OC3,Technicians and associate professionals,30709
+2013M12,OC4,Clerical support workers,19376
+2013M12,OC5,Service and sales workers,48710
+2013M12,OC7,Craft and related trades workers,71891
+2013M12,OC8,Plant and machine operators and assemblers,28680
+2013M12,OC9,Elementary occupations,29036
+2014M01,OC1,Managers,3309
+2014M01,OC2,Professionals,40302
+2014M01,OC3,Technicians and associate professionals,30428
+2014M01,OC4,Clerical support workers,19222
+2014M01,OC5,Service and sales workers,48666
+2014M01,OC7,Craft and related trades workers,71342
+2014M01,OC8,Plant and machine operators and assemblers,28796
+2014M01,OC9,Elementary occupations,29228
+2014M02,OC1,Managers,3319
+2014M02,OC2,Professionals,39898
+2014M02,OC3,Technicians and associate professionals,29929
+2014M02,OC4,Clerical support workers,19002
+2014M02,OC5,Service and sales workers,47933
+2014M02,OC7,Craft and related trades workers,71143
+2014M02,OC8,Plant and machine operators and assemblers,28509
+2014M02,OC9,Elementary occupations,29076
+2014M03,OC1,Managers,3322
+2014M03,OC2,Professionals,39197
+2014M03,OC3,Technicians and associate professionals,29151
+2014M03,OC4,Clerical support workers,18565
+2014M03,OC5,Service and sales workers,46419
+2014M03,OC7,Craft and related trades workers,69044
+2014M03,OC8,Plant and machine operators and assemblers,27946
+2014M03,OC9,Elementary occupations,28278
+2014M04,OC1,Managers,3325
+2014M04,OC2,Professionals,39324
+2014M04,OC3,Technicians and associate professionals,28811
+2014M04,OC4,Clerical support workers,18408
+2014M04,OC5,Service and sales workers,45603
+2014M04,OC7,Craft and related trades workers,65297
+2014M04,OC8,Plant and machine operators and assemblers,27079
+2014M04,OC9,Elementary occupations,27388
+2014M05,OC1,Managers,3382
+2014M05,OC2,Professionals,40920
+2014M05,OC3,Technicians and associate professionals,28914
+2014M05,OC4,Clerical support workers,18594
+2014M05,OC5,Service and sales workers,46167
+2014M05,OC7,Craft and related trades workers,60836
+2014M05,OC8,Plant and machine operators and assemblers,25178
+2014M05,OC9,Elementary occupations,26335
+2014M06,OC1,Managers,3590
+2014M06,OC2,Professionals,48823
+2014M06,OC3,Technicians and associate professionals,31862
+2014M06,OC4,Clerical support workers,19820
+2014M06,OC5,Service and sales workers,56908
+2014M06,OC7,Craft and related trades workers,62582
+2014M06,OC8,Plant and machine operators and assemblers,25534
+2014M06,OC9,Elementary occupations,27338
+2014M07,OC1,Managers,3759
+2014M07,OC2,Professionals,51526
+2014M07,OC3,Technicians and associate professionals,33086
+2014M07,OC4,Clerical support workers,20520
+2014M07,OC5,Service and sales workers,60159
+2014M07,OC7,Craft and related trades workers,63379
+2014M07,OC8,Plant and machine operators and assemblers,25795
+2014M07,OC9,Elementary occupations,28065
+2014M08,OC1,Managers,3659
+2014M08,OC2,Professionals,44824
+2014M08,OC3,Technicians and associate professionals,30926
+2014M08,OC4,Clerical support workers,19505
+2014M08,OC5,Service and sales workers,51032
+2014M08,OC7,Craft and related trades workers,60888
+2014M08,OC8,Plant and machine operators and assemblers,24811
+2014M08,OC9,Elementary occupations,26692
+2014M09,OC1,Managers,3618
+2014M09,OC2,Professionals,42190
+2014M09,OC3,Technicians and associate professionals,30722
+2014M09,OC4,Clerical support workers,19519
+2014M09,OC5,Service and sales workers,51400
+2014M09,OC7,Craft and related trades workers,61945
+2014M09,OC8,Plant and machine operators and assemblers,25467
+2014M09,OC9,Elementary occupations,26631
+2014M10,OC1,Managers,3699
+2014M10,OC2,Professionals,41973
+2014M10,OC3,Technicians and associate professionals,31046
+2014M10,OC4,Clerical support workers,19602
+2014M10,OC5,Service and sales workers,52052
+2014M10,OC7,Craft and related trades workers,64367
+2014M10,OC8,Plant and machine operators and assemblers,26376
+2014M10,OC9,Elementary occupations,27380
+2014M11,OC1,Managers,3722
+2014M11,OC2,Professionals,41807
+2014M11,OC3,Technicians and associate professionals,31265
+2014M11,OC4,Clerical support workers,19639
+2014M11,OC5,Service and sales workers,51894
+2014M11,OC7,Craft and related trades workers,67589
+2014M11,OC8,Plant and machine operators and assemblers,27637
+2014M11,OC9,Elementary occupations,28016
+2014M12,OC1,Managers,3968
+2014M12,OC2,Professionals,45726
+2014M12,OC3,Technicians and associate professionals,34233
+2014M12,OC4,Clerical support workers,20863
+2014M12,OC5,Service and sales workers,56301
+2014M12,OC7,Craft and related trades workers,78110
+2014M12,OC8,Plant and machine operators and assemblers,31364
+2014M12,OC9,Elementary occupations,30727
+2015M01,OC1,Managers,3963
+2015M01,OC2,Professionals,45343
+2015M01,OC3,Technicians and associate professionals,34285
+2015M01,OC4,Clerical support workers,21125
+2015M01,OC5,Service and sales workers,55789
+2015M01,OC7,Craft and related trades workers,76716
+2015M01,OC8,Plant and machine operators and assemblers,30953
+2015M01,OC9,Elementary occupations,30807
+2015M02,OC1,Managers,3960
+2015M02,OC2,Professionals,44814
+2015M02,OC3,Technicians and associate professionals,33706
+2015M02,OC4,Clerical support workers,20916
+2015M02,OC5,Service and sales workers,54889
+2015M02,OC7,Craft and related trades workers,76246
+2015M02,OC8,Plant and machine operators and assemblers,30526
+2015M02,OC9,Elementary occupations,30553
+2015M03,OC1,Managers,3983
+2015M03,OC2,Professionals,44044
+2015M03,OC3,Technicians and associate professionals,32933
+2015M03,OC4,Clerical support workers,20542
+2015M03,OC5,Service and sales workers,53074
+2015M03,OC7,Craft and related trades workers,74080
+2015M03,OC8,Plant and machine operators and assemblers,29955
+2015M03,OC9,Elementary occupations,29760
+2015M04,OC1,Managers,3990
+2015M04,OC2,Professionals,44315
+2015M04,OC3,Technicians and associate professionals,32535
+2015M04,OC4,Clerical support workers,20496
+2015M04,OC5,Service and sales workers,52892
+2015M04,OC7,Craft and related trades workers,69568
+2015M04,OC8,Plant and machine operators and assemblers,28949
+2015M04,OC9,Elementary occupations,28882
+2015M05,OC1,Managers,4037
+2015M05,OC2,Professionals,45184
+2015M05,OC3,Technicians and associate professionals,32175
+2015M05,OC4,Clerical support workers,20366
+2015M05,OC5,Service and sales workers,52718
+2015M05,OC7,Craft and related trades workers,64384
+2015M05,OC8,Plant and machine operators and assemblers,26961
+2015M05,OC9,Elementary occupations,27744
+2015M06,OC1,Managers,4176
+2015M06,OC2,Professionals,53968
+2015M06,OC3,Technicians and associate professionals,35056
+2015M06,OC4,Clerical support workers,21540
+2015M06,OC5,Service and sales workers,64948
+2015M06,OC7,Craft and related trades workers,67210
+2015M06,OC8,Plant and machine operators and assemblers,27060
+2015M06,OC9,Elementary occupations,28716
+2015M07,OC1,Managers,4346
+2015M07,OC2,Professionals,56795
+2015M07,OC3,Technicians and associate professionals,36333
+2015M07,OC4,Clerical support workers,22125
+2015M07,OC5,Service and sales workers,68406
+2015M07,OC7,Craft and related trades workers,67304
+2015M07,OC8,Plant and machine operators and assemblers,27250
+2015M07,OC9,Elementary occupations,29340
+2015M08,OC1,Managers,4167
+2015M08,OC2,Professionals,49283
+2015M08,OC3,Technicians and associate professionals,34111
+2015M08,OC4,Clerical support workers,21019
+2015M08,OC5,Service and sales workers,58110
+2015M08,OC7,Craft and related trades workers,64757
+2015M08,OC8,Plant and machine operators and assemblers,26183
+2015M08,OC9,Elementary occupations,27956
+2015M09,OC1,Managers,4095
+2015M09,OC2,Professionals,46287
+2015M09,OC3,Technicians and associate professionals,33502
+2015M09,OC4,Clerical support workers,20819
+2015M09,OC5,Service and sales workers,57404
+2015M09,OC7,Craft and related trades workers,64703
+2015M09,OC8,Plant and machine operators and assemblers,26408
+2015M09,OC9,Elementary occupations,27605
+2015M10,OC1,Managers,4076
+2015M10,OC2,Professionals,45267
+2015M10,OC3,Technicians and associate professionals,33448
+2015M10,OC4,Clerical support workers,20651
+2015M10,OC5,Service and sales workers,57436
+2015M10,OC7,Craft and related trades workers,65856
+2015M10,OC8,Plant and machine operators and assemblers,27146
+2015M10,OC9,Elementary occupations,27971
+2015M11,OC1,Managers,4095
+2015M11,OC2,Professionals,45025
+2015M11,OC3,Technicians and associate professionals,33325
+2015M11,OC4,Clerical support workers,20649
+2015M11,OC5,Service and sales workers,56925
+2015M11,OC7,Craft and related trades workers,68721
+2015M11,OC8,Plant and machine operators and assemblers,28088
+2015M11,OC9,Elementary occupations,28524
+2015M12,OC1,Managers,4241
+2015M12,OC2,Professionals,48970
+2015M12,OC3,Technicians and associate professionals,36331
+2015M12,OC4,Clerical support workers,21869
+2015M12,OC5,Service and sales workers,62010
+2015M12,OC7,Craft and related trades workers,77930
+2015M12,OC8,Plant and machine operators and assemblers,31655
+2015M12,OC9,Elementary occupations,31267
+2016M01,OC1,Managers,4167
+2016M01,OC2,Professionals,47578
+2016M01,OC3,Technicians and associate professionals,35841
+2016M01,OC4,Clerical support workers,21547
+2016M01,OC5,Service and sales workers,60028
+2016M01,OC7,Craft and related trades workers,76162
+2016M01,OC8,Plant and machine operators and assemblers,30327
+2016M01,OC9,Elementary occupations,30778
+2016M02,OC1,Managers,4124
+2016M02,OC2,Professionals,46707
+2016M02,OC3,Technicians and associate professionals,34966
+2016M02,OC4,Clerical support workers,21141
+2016M02,OC5,Service and sales workers,58786
+2016M02,OC7,Craft and related trades workers,74502
+2016M02,OC8,Plant and machine operators and assemblers,29639
+2016M02,OC9,Elementary occupations,30120
+2016M03,OC1,Managers,4060
+2016M03,OC2,Professionals,45563
+2016M03,OC3,Technicians and associate professionals,33694
+2016M03,OC4,Clerical support workers,20639
+2016M03,OC5,Service and sales workers,56502
+2016M03,OC7,Craft and related trades workers,72086
+2016M03,OC8,Plant and machine operators and assemblers,28844
+2016M03,OC9,Elementary occupations,29374
+2016M04,OC1,Managers,4021
+2016M04,OC2,Professionals,45504
+2016M04,OC3,Technicians and associate professionals,33068
+2016M04,OC4,Clerical support workers,20431
+2016M04,OC5,Service and sales workers,56073
+2016M04,OC7,Craft and related trades workers,67549
+2016M04,OC8,Plant and machine operators and assemblers,27960
+2016M04,OC9,Elementary occupations,28169
+2016M05,OC1,Managers,4035
+2016M05,OC2,Professionals,46361
+2016M05,OC3,Technicians and associate professionals,32569
+2016M05,OC4,Clerical support workers,20441
+2016M05,OC5,Service and sales workers,56080
+2016M05,OC7,Craft and related trades workers,62239
+2016M05,OC8,Plant and machine operators and assemblers,25812
+2016M05,OC9,Elementary occupations,27031
+2016M06,OC1,Managers,4158
+2016M06,OC2,Professionals,54350
+2016M06,OC3,Technicians and associate professionals,35092
+2016M06,OC4,Clerical support workers,21517
+2016M06,OC5,Service and sales workers,66918
+2016M06,OC7,Craft and related trades workers,64097
+2016M06,OC8,Plant and machine operators and assemblers,26041
+2016M06,OC9,Elementary occupations,27842
+2016M07,OC1,Managers,4299
+2016M07,OC2,Professionals,57540
+2016M07,OC3,Technicians and associate professionals,36273
+2016M07,OC4,Clerical support workers,22123
+2016M07,OC5,Service and sales workers,70575
+2016M07,OC7,Craft and related trades workers,63921
+2016M07,OC8,Plant and machine operators and assemblers,26208
+2016M07,OC9,Elementary occupations,28500
+2016M08,OC1,Managers,4156
+2016M08,OC2,Professionals,49933
+2016M08,OC3,Technicians and associate professionals,34074
+2016M08,OC4,Clerical support workers,20884
+2016M08,OC5,Service and sales workers,59998
+2016M08,OC7,Craft and related trades workers,60697
+2016M08,OC8,Plant and machine operators and assemblers,24839
+2016M08,OC9,Elementary occupations,27035
+2016M09,OC1,Managers,4040
+2016M09,OC2,Professionals,46739
+2016M09,OC3,Technicians and associate professionals,33238
+2016M09,OC4,Clerical support workers,20494
+2016M09,OC5,Service and sales workers,58717
+2016M09,OC7,Craft and related trades workers,59231
+2016M09,OC8,Plant and machine operators and assemblers,24658
+2016M09,OC9,Elementary occupations,26404
+2016M10,OC1,Managers,4056
+2016M10,OC2,Professionals,45670
+2016M10,OC3,Technicians and associate professionals,33036
+2016M10,OC4,Clerical support workers,20414
+2016M10,OC5,Service and sales workers,59005
+2016M10,OC7,Craft and related trades workers,59621
+2016M10,OC8,Plant and machine operators and assemblers,25084
+2016M10,OC9,Elementary occupations,26597
+2016M11,OC1,Managers,3964
+2016M11,OC2,Professionals,44660
+2016M11,OC3,Technicians and associate professionals,32610
+2016M11,OC4,Clerical support workers,19998
+2016M11,OC5,Service and sales workers,57615
+2016M11,OC7,Craft and related trades workers,60956
+2016M11,OC8,Plant and machine operators and assemblers,25536
+2016M11,OC9,Elementary occupations,26972
+2016M12,OC1,Managers,4131
+2016M12,OC2,Professionals,47972
+2016M12,OC3,Technicians and associate professionals,35009
+2016M12,OC4,Clerical support workers,20910
+2016M12,OC5,Service and sales workers,62230
+2016M12,OC7,Craft and related trades workers,68250
+2016M12,OC8,Plant and machine operators and assemblers,27797
+2016M12,OC9,Elementary occupations,29124
+2017M01,OC1,Managers,3987
+2017M01,OC2,Professionals,45428
+2017M01,OC3,Technicians and associate professionals,33946
+2017M01,OC4,Clerical support workers,20544
+2017M01,OC5,Service and sales workers,58817
+2017M01,OC7,Craft and related trades workers,65426
+2017M01,OC8,Plant and machine operators and assemblers,26725
+2017M01,OC9,Elementary occupations,28299
+2017M02,OC1,Managers,3890
+2017M02,OC2,Professionals,43740
+2017M02,OC3,Technicians and associate professionals,32382
+2017M02,OC4,Clerical support workers,19900
+2017M02,OC5,Service and sales workers,56945
+2017M02,OC7,Craft and related trades workers,63658
+2017M02,OC8,Plant and machine operators and assemblers,25901
+2017M02,OC9,Elementary occupations,27682
+2017M03,OC1,Managers,3695
+2017M03,OC2,Professionals,41983
+2017M03,OC3,Technicians and associate professionals,30827
+2017M03,OC4,Clerical support workers,19155
+2017M03,OC5,Service and sales workers,53873
+2017M03,OC7,Craft and related trades workers,60030
+2017M03,OC8,Plant and machine operators and assemblers,24681
+2017M03,OC9,Elementary occupations,26649
+2017M04,OC1,Managers,3647
+2017M04,OC2,Professionals,41246
+2017M04,OC3,Technicians and associate professionals,29590
+2017M04,OC4,Clerical support workers,18808
+2017M04,OC5,Service and sales workers,52345
+2017M04,OC7,Craft and related trades workers,55891
+2017M04,OC8,Plant and machine operators and assemblers,23815
+2017M04,OC9,Elementary occupations,25277
+2017M05,OC1,Managers,3588
+2017M05,OC2,Professionals,41204
+2017M05,OC3,Technicians and associate professionals,28688
+2017M05,OC4,Clerical support workers,18482
+2017M05,OC5,Service and sales workers,51440
+2017M05,OC7,Craft and related trades workers,50645
+2017M05,OC8,Plant and machine operators and assemblers,21592
+2017M05,OC9,Elementary occupations,23663
+2017M06,OC1,Managers,3584
+2017M06,OC2,Professionals,48625
+2017M06,OC3,Technicians and associate professionals,30693
+2017M06,OC4,Clerical support workers,19097
+2017M06,OC5,Service and sales workers,61647
+2017M06,OC7,Craft and related trades workers,51077
+2017M06,OC8,Plant and machine operators and assemblers,21242
+2017M06,OC9,Elementary occupations,24055
+2017M07,OC1,Managers,3711
+2017M07,OC2,Professionals,50688
+2017M07,OC3,Technicians and associate professionals,31566
+2017M07,OC4,Clerical support workers,19505
+2017M07,OC5,Service and sales workers,64295
+2017M07,OC7,Craft and related trades workers,50920
+2017M07,OC8,Plant and machine operators and assemblers,21293
+2017M07,OC9,Elementary occupations,24526
+2017M08,OC1,Managers,3483
+2017M08,OC2,Professionals,41516
+2017M08,OC3,Technicians and associate professionals,28772
+2017M08,OC4,Clerical support workers,18126
+2017M08,OC5,Service and sales workers,53350
+2017M08,OC7,Craft and related trades workers,46997
+2017M08,OC8,Plant and machine operators and assemblers,19704
+2017M08,OC9,Elementary occupations,22819
+2017M09,OC1,Managers,3339
+2017M09,OC2,Professionals,38112
+2017M09,OC3,Technicians and associate professionals,28056
+2017M09,OC4,Clerical support workers,17626
+2017M09,OC5,Service and sales workers,51278
+2017M09,OC7,Craft and related trades workers,45549
+2017M09,OC8,Plant and machine operators and assemblers,19510
+2017M09,OC9,Elementary occupations,22242
+2017M10,OC1,Managers,3262
+2017M10,OC2,Professionals,36660
+2017M10,OC3,Technicians and associate professionals,27466
+2017M10,OC4,Clerical support workers,17384
+2017M10,OC5,Service and sales workers,50835
+2017M10,OC7,Craft and related trades workers,45745
+2017M10,OC8,Plant and machine operators and assemblers,19581
+2017M10,OC9,Elementary occupations,22226
+2017M11,OC1,Managers,3215
+2017M11,OC2,Professionals,35846
+2017M11,OC3,Technicians and associate professionals,26902
+2017M11,OC4,Clerical support workers,16912
+2017M11,OC5,Service and sales workers,48932
+2017M11,OC7,Craft and related trades workers,47086
+2017M11,OC8,Plant and machine operators and assemblers,20013
+2017M11,OC9,Elementary occupations,22406
+2017M12,OC1,Managers,3297
+2017M12,OC2,Professionals,38133
+2017M12,OC3,Technicians and associate professionals,28633
+2017M12,OC4,Clerical support workers,17617
+2017M12,OC5,Service and sales workers,52657
+2017M12,OC7,Craft and related trades workers,53199
+2017M12,OC8,Plant and machine operators and assemblers,21832
+2017M12,OC9,Elementary occupations,24446
+2018M01,OC1,Managers,3257
+2018M01,OC2,Professionals,36507
+2018M01,OC3,Technicians and associate professionals,27839
+2018M01,OC4,Clerical support workers,17117
+2018M01,OC5,Service and sales workers,50055
+2018M01,OC7,Craft and related trades workers,52085
+2018M01,OC8,Plant and machine operators and assemblers,21267
+2018M01,OC9,Elementary occupations,24071
+2018M02,OC1,Managers,3188
+2018M02,OC2,Professionals,35103
+2018M02,OC3,Technicians and associate professionals,26589
+2018M02,OC4,Clerical support workers,16458
+2018M02,OC5,Service and sales workers,47793
+2018M02,OC7,Craft and related trades workers,50838
+2018M02,OC8,Plant and machine operators and assemblers,20695
+2018M02,OC9,Elementary occupations,23342
+2018M03,OC1,Managers,3132
+2018M03,OC2,Professionals,33777
+2018M03,OC3,Technicians and associate professionals,25333
+2018M03,OC4,Clerical support workers,15778
+2018M03,OC5,Service and sales workers,44913
+2018M03,OC7,Craft and related trades workers,48512
+2018M03,OC8,Plant and machine operators and assemblers,19821
+2018M03,OC9,Elementary occupations,22293
+2018M04,OC1,Managers,3129
+2018M04,OC2,Professionals,33198
+2018M04,OC3,Technicians and associate professionals,24615
+2018M04,OC4,Clerical support workers,15475
+2018M04,OC5,Service and sales workers,44219
+2018M04,OC7,Craft and related trades workers,44836
+2018M04,OC8,Plant and machine operators and assemblers,18827
+2018M04,OC9,Elementary occupations,21281
+2018M05,OC1,Managers,3096
+2018M05,OC2,Professionals,33430
+2018M05,OC3,Technicians and associate professionals,23842
+2018M05,OC4,Clerical support workers,15045
+2018M05,OC5,Service and sales workers,43276
+2018M05,OC7,Craft and related trades workers,40107
+2018M05,OC8,Plant and machine operators and assemblers,16742
+2018M05,OC9,Elementary occupations,19723
+2018M06,OC1,Managers,3228
+2018M06,OC2,Professionals,41649
+2018M06,OC3,Technicians and associate professionals,26060
+2018M06,OC4,Clerical support workers,16066
+2018M06,OC5,Service and sales workers,53798
+2018M06,OC7,Craft and related trades workers,41501
+2018M06,OC8,Plant and machine operators and assemblers,17106
+2018M06,OC9,Elementary occupations,20504
+2018M07,OC1,Managers,3415
+2018M07,OC2,Professionals,43891
+2018M07,OC3,Technicians and associate professionals,27086
+2018M07,OC4,Clerical support workers,16602
+2018M07,OC5,Service and sales workers,57053
+2018M07,OC7,Craft and related trades workers,41970
+2018M07,OC8,Plant and machine operators and assemblers,17468
+2018M07,OC9,Elementary occupations,21226
+2018M08,OC1,Managers,3211
+2018M08,OC2,Professionals,34252
+2018M08,OC3,Technicians and associate professionals,24119
+2018M08,OC4,Clerical support workers,15193
+2018M08,OC5,Service and sales workers,44798
+2018M08,OC7,Craft and related trades workers,38533
+2018M08,OC8,Plant and machine operators and assemblers,15919
+2018M08,OC9,Elementary occupations,19403
+2018M09,OC1,Managers,3085
+2018M09,OC2,Professionals,31102
+2018M09,OC3,Technicians and associate professionals,23220
+2018M09,OC4,Clerical support workers,14777
+2018M09,OC5,Service and sales workers,42940
+2018M09,OC7,Craft and related trades workers,37738
+2018M09,OC8,Plant and machine operators and assemblers,15764
+2018M09,OC9,Elementary occupations,18942
+2018M10,OC1,Managers,3022
+2018M10,OC2,Professionals,29976
+2018M10,OC3,Technicians and associate professionals,22773
+2018M10,OC4,Clerical support workers,14419
+2018M10,OC5,Service and sales workers,42573
+2018M10,OC7,Craft and related trades workers,38328
+2018M10,OC8,Plant and machine operators and assemblers,16065
+2018M10,OC9,Elementary occupations,18849
+2018M11,OC1,Managers,3011
+2018M11,OC2,Professionals,29384
+2018M11,OC3,Technicians and associate professionals,22267
+2018M11,OC4,Clerical support workers,13906
+2018M11,OC5,Service and sales workers,40525
+2018M11,OC7,Craft and related trades workers,39887
+2018M11,OC8,Plant and machine operators and assemblers,16249
+2018M11,OC9,Elementary occupations,19057
+2018M12,OC1,Managers,3157
+2018M12,OC2,Professionals,32229
+2018M12,OC3,Technicians and associate professionals,24344
+2018M12,OC4,Clerical support workers,14753
+2018M12,OC5,Service and sales workers,44819
+2018M12,OC7,Craft and related trades workers,46453
+2018M12,OC8,Plant and machine operators and assemblers,18261
+2018M12,OC9,Elementary occupations,21320
+2019M01,OC1,Managers,3109
+2019M01,OC2,Professionals,31107
+2019M01,OC3,Technicians and associate professionals,23968
+2019M01,OC4,Clerical support workers,14490
+2019M01,OC5,Service and sales workers,43100
+2019M01,OC7,Craft and related trades workers,46113
+2019M01,OC8,Plant and machine operators and assemblers,18137
+2019M01,OC9,Elementary occupations,21057
+2019M02,OC1,Managers,3084
+2019M02,OC2,Professionals,30318
+2019M02,OC3,Technicians and associate professionals,23064
+2019M02,OC4,Clerical support workers,14134
+2019M02,OC5,Service and sales workers,41511
+2019M02,OC7,Craft and related trades workers,45336
+2019M02,OC8,Plant and machine operators and assemblers,17922
+2019M02,OC9,Elementary occupations,20624
+2019M03,OC1,Managers,2969
+2019M03,OC2,Professionals,29422
+2019M03,OC3,Technicians and associate professionals,22302
+2019M03,OC4,Clerical support workers,13686
+2019M03,OC5,Service and sales workers,39517
+2019M03,OC7,Craft and related trades workers,43913
+2019M03,OC8,Plant and machine operators and assemblers,17465
+2019M03,OC9,Elementary occupations,19879
+2019M04,OC1,Managers,2976
+2019M04,OC2,Professionals,29184
+2019M04,OC3,Technicians and associate professionals,21555
+2019M04,OC4,Clerical support workers,13525
+2019M04,OC5,Service and sales workers,38440
+2019M04,OC7,Craft and related trades workers,40655
+2019M04,OC8,Plant and machine operators and assemblers,16777
+2019M04,OC9,Elementary occupations,18789
+2019M05,OC1,Managers,3037
+2019M05,OC2,Professionals,30326
+2019M05,OC3,Technicians and associate professionals,21505
+2019M05,OC4,Clerical support workers,13532
+2019M05,OC5,Service and sales workers,38784
+2019M05,OC7,Craft and related trades workers,37747
+2019M05,OC8,Plant and machine operators and assemblers,15366
+2019M05,OC9,Elementary occupations,17803
+2019M06,OC1,Managers,3175
+2019M06,OC2,Professionals,37450
+2019M06,OC3,Technicians and associate professionals,23223
+2019M06,OC4,Clerical support workers,14236
+2019M06,OC5,Service and sales workers,48343
+2019M06,OC7,Craft and related trades workers,38043
+2019M06,OC8,Plant and machine operators and assemblers,15824
+2019M06,OC9,Elementary occupations,18379
+2019M07,OC1,Managers,3371
+2019M07,OC2,Professionals,39954
+2019M07,OC3,Technicians and associate professionals,24482
+2019M07,OC4,Clerical support workers,14774
+2019M07,OC5,Service and sales workers,52391
+2019M07,OC7,Craft and related trades workers,39075
+2019M07,OC8,Plant and machine operators and assemblers,16268
+2019M07,OC9,Elementary occupations,19245
+2019M08,OC1,Managers,3192
+2019M08,OC2,Professionals,31736
+2019M08,OC3,Technicians and associate professionals,21930
+2019M08,OC4,Clerical support workers,13700
+2019M08,OC5,Service and sales workers,40582
+2019M08,OC7,Craft and related trades workers,36644
+2019M08,OC8,Plant and machine operators and assemblers,15263
+2019M08,OC9,Elementary occupations,17808
+2019M09,OC1,Managers,3122
+2019M09,OC2,Professionals,29292
+2019M09,OC3,Technicians and associate professionals,21540
+2019M09,OC4,Clerical support workers,13458
+2019M09,OC5,Service and sales workers,39283
+2019M09,OC7,Craft and related trades workers,36837
+2019M09,OC8,Plant and machine operators and assemblers,15775
+2019M09,OC9,Elementary occupations,17705
+2019M10,OC1,Managers,3144
+2019M10,OC2,Professionals,28496
+2019M10,OC3,Technicians and associate professionals,21137
+2019M10,OC4,Clerical support workers,13292
+2019M10,OC5,Service and sales workers,38338
+2019M10,OC7,Craft and related trades workers,37473
+2019M10,OC8,Plant and machine operators and assemblers,16345
+2019M10,OC9,Elementary occupations,17631
+2019M11,OC1,Managers,3094
+2019M11,OC2,Professionals,28288
+2019M11,OC3,Technicians and associate professionals,21050
+2019M11,OC4,Clerical support workers,12983
+2019M11,OC5,Service and sales workers,37423
+2019M11,OC7,Craft and related trades workers,40120
+2019M11,OC8,Plant and machine operators and assemblers,17357
+2019M11,OC9,Elementary occupations,18188
+2019M12,OC1,Managers,3203
+2019M12,OC2,Professionals,31169
+2019M12,OC3,Technicians and associate professionals,23037
+2019M12,OC4,Clerical support workers,13924
+2019M12,OC5,Service and sales workers,41836
+2019M12,OC7,Craft and related trades workers,47743
+2019M12,OC8,Plant and machine operators and assemblers,19942
+2019M12,OC9,Elementary occupations,20335
+2020M01,OC1,Managers,3123
+2020M01,OC2,Professionals,30380
+2020M01,OC3,Technicians and associate professionals,23083
+2020M01,OC4,Clerical support workers,13859
+2020M01,OC5,Service and sales workers,40116
+2020M01,OC7,Craft and related trades workers,46491
+2020M01,OC8,Plant and machine operators and assemblers,19330
+2020M01,OC9,Elementary occupations,20082
+2020M02,OC1,Managers,3137
+2020M02,OC2,Professionals,29951
+2020M02,OC3,Technicians and associate professionals,22482
+2020M02,OC4,Clerical support workers,13568
+2020M02,OC5,Service and sales workers,39540
+2020M02,OC7,Craft and related trades workers,46211
+2020M02,OC8,Plant and machine operators and assemblers,19081
+2020M02,OC9,Elementary occupations,19754
+2020M03,OC1,Managers,3624
+2020M03,OC2,Professionals,33328
+2020M03,OC3,Technicians and associate professionals,26941
+2020M03,OC4,Clerical support workers,16206
+2020M03,OC5,Service and sales workers,63758
+2020M03,OC7,Craft and related trades workers,51735
+2020M03,OC8,Plant and machine operators and assemblers,23843
+2020M03,OC9,Elementary occupations,24777
+2020M04,OC1,Managers,5539
+2020M04,OC2,Professionals,47880
+2020M04,OC3,Technicians and associate professionals,40983
+2020M04,OC4,Clerical support workers,22725
+2020M04,OC5,Service and sales workers,95362
+2020M04,OC7,Craft and related trades workers,62861
+2020M04,OC8,Plant and machine operators and assemblers,32020
+2020M04,OC9,Elementary occupations,31613
+2020M05,OC1,Managers,5916
+2020M05,OC2,Professionals,50739
+2020M05,OC3,Technicians and associate professionals,41981
+2020M05,OC4,Clerical support workers,23367
+2020M05,OC5,Service and sales workers,92741
+2020M05,OC7,Craft and related trades workers,59303
+2020M05,OC8,Plant and machine operators and assemblers,30645
+2020M05,OC9,Elementary occupations,30850
+2020M06,OC1,Managers,5656
+2020M06,OC2,Professionals,54373
+2020M06,OC3,Technicians and associate professionals,38612
+2020M06,OC4,Clerical support workers,21747
+2020M06,OC5,Service and sales workers,86781
+2020M06,OC7,Craft and related trades workers,56037
+2020M06,OC8,Plant and machine operators and assemblers,27982
+2020M06,OC9,Elementary occupations,28361
+2020M07,OC1,Managers,5079
+2020M07,OC2,Professionals,51791
+2020M07,OC3,Technicians and associate professionals,35134
+2020M07,OC4,Clerical support workers,20368
+2020M07,OC5,Service and sales workers,78389
+2020M07,OC7,Craft and related trades workers,53540
+2020M07,OC8,Plant and machine operators and assemblers,26227
+2020M07,OC9,Elementary occupations,26478
+2020M08,OC1,Managers,4603
+2020M08,OC2,Professionals,42113
+2020M08,OC3,Technicians and associate professionals,30382
+2020M08,OC4,Clerical support workers,18205
+2020M08,OC5,Service and sales workers,59811
+2020M08,OC7,Craft and related trades workers,49789
+2020M08,OC8,Plant and machine operators and assemblers,23586
+2020M08,OC9,Elementary occupations,23673
+2020M09,OC1,Managers,4429
+2020M09,OC2,Professionals,38694
+2020M09,OC3,Technicians and associate professionals,29212
+2020M09,OC4,Clerical support workers,17777
+2020M09,OC5,Service and sales workers,57027
+2020M09,OC7,Craft and related trades workers,49341
+2020M09,OC8,Plant and machine operators and assemblers,23048
+2020M09,OC9,Elementary occupations,23005
+2020M10,OC1,Managers,4420
+2020M10,OC2,Professionals,37780
+2020M10,OC3,Technicians and associate professionals,28981
+2020M10,OC4,Clerical support workers,17654
+2020M10,OC5,Service and sales workers,56790
+2020M10,OC7,Craft and related trades workers,49770
+2020M10,OC8,Plant and machine operators and assemblers,23284
+2020M10,OC9,Elementary occupations,23319
+2020M11,OC1,Managers,4438
+2020M11,OC2,Professionals,37408
+2020M11,OC3,Technicians and associate professionals,28930
+2020M11,OC4,Clerical support workers,17822
+2020M11,OC5,Service and sales workers,56551
+2020M11,OC7,Craft and related trades workers,52156
+2020M11,OC8,Plant and machine operators and assemblers,24179
+2020M11,OC9,Elementary occupations,24530
+2020M12,OC1,Managers,4758
+2020M12,OC2,Professionals,40937
+2020M12,OC3,Technicians and associate professionals,32209
+2020M12,OC4,Clerical support workers,18999
+2020M12,OC5,Service and sales workers,63838
+2020M12,OC7,Craft and related trades workers,62437
+2020M12,OC8,Plant and machine operators and assemblers,28325
+2020M12,OC9,Elementary occupations,27573
+2021M01,OC1,Managers,4366
+2021M01,OC2,Professionals,37347
+2021M01,OC3,Technicians and associate professionals,29943
+2021M01,OC4,Clerical support workers,18713
+2021M01,OC5,Service and sales workers,60823
+2021M01,OC7,Craft and related trades workers,57671
+2021M01,OC8,Plant and machine operators and assemblers,25361
+2021M01,OC9,Elementary occupations,26808
+2021M02,OC1,Managers,4377
+2021M02,OC2,Professionals,36860
+2021M02,OC3,Technicians and associate professionals,29193
+2021M02,OC4,Clerical support workers,18576
+2021M02,OC5,Service and sales workers,59874
+2021M02,OC7,Craft and related trades workers,57132
+2021M02,OC8,Plant and machine operators and assemblers,24992
+2021M02,OC9,Elementary occupations,26811
+2021M03,OC1,Managers,4404
+2021M03,OC2,Professionals,36107
+2021M03,OC3,Technicians and associate professionals,28956
+2021M03,OC4,Clerical support workers,18443
+2021M03,OC5,Service and sales workers,65550
+2021M03,OC7,Craft and related trades workers,55573
+2021M03,OC8,Plant and machine operators and assemblers,24451
+2021M03,OC9,Elementary occupations,27720
+2021M04,OC1,Managers,4357
+2021M04,OC2,Professionals,35764
+2021M04,OC3,Technicians and associate professionals,28233
+2021M04,OC4,Clerical support workers,18043
+2021M04,OC5,Service and sales workers,62244
+2021M04,OC7,Craft and related trades workers,51311
+2021M04,OC8,Plant and machine operators and assemblers,23718
+2021M04,OC9,Elementary occupations,26403
+2021M05,OC1,Managers,4215
+2021M05,OC2,Professionals,35628
+2021M05,OC3,Technicians and associate professionals,27084
+2021M05,OC4,Clerical support workers,17393
+2021M05,OC5,Service and sales workers,57835
+2021M05,OC7,Craft and related trades workers,46909
+2021M05,OC8,Plant and machine operators and assemblers,21520
+2021M05,OC9,Elementary occupations,24501
+2021M06,OC1,Managers,4203
+2021M06,OC2,Professionals,41286
+2021M06,OC3,Technicians and associate professionals,27734
+2021M06,OC4,Clerical support workers,17275
+2021M06,OC5,Service and sales workers,63437
+2021M06,OC7,Craft and related trades workers,46059
+2021M06,OC8,Plant and machine operators and assemblers,21293
+2021M06,OC9,Elementary occupations,24080
+2021M07,OC1,Managers,4247
+2021M07,OC2,Professionals,43011
+2021M07,OC3,Technicians and associate professionals,28281
+2021M07,OC4,Clerical support workers,17341
+2021M07,OC5,Service and sales workers,65449
+2021M07,OC7,Craft and related trades workers,45950
+2021M07,OC8,Plant and machine operators and assemblers,21365
+2021M07,OC9,Elementary occupations,24164
+2021M08,OC1,Managers,3997
+2021M08,OC2,Professionals,34857
+2021M08,OC3,Technicians and associate professionals,25234
+2021M08,OC4,Clerical support workers,15927
+2021M08,OC5,Service and sales workers,51437
+2021M08,OC7,Craft and related trades workers,42882
+2021M08,OC8,Plant and machine operators and assemblers,19489
+2021M08,OC9,Elementary occupations,22448
+2021M09,OC1,Managers,3827
+2021M09,OC2,Professionals,32107
+2021M09,OC3,Technicians and associate professionals,24027
+2021M09,OC4,Clerical support workers,15230
+2021M09,OC5,Service and sales workers,48028
+2021M09,OC7,Craft and related trades workers,41323
+2021M09,OC8,Plant and machine operators and assemblers,18917
+2021M09,OC9,Elementary occupations,21439
+2021M10,OC1,Managers,3685
+2021M10,OC2,Professionals,31038
+2021M10,OC3,Technicians and associate professionals,23294
+2021M10,OC4,Clerical support workers,14733
+2021M10,OC5,Service and sales workers,46232
+2021M10,OC7,Craft and related trades workers,41069
+2021M10,OC8,Plant and machine operators and assemblers,18760
+2021M10,OC9,Elementary occupations,21174
+2021M11,OC1,Managers,3597
+2021M11,OC2,Professionals,29876
+2021M11,OC3,Technicians and associate professionals,22504
+2021M11,OC4,Clerical support workers,14130
+2021M11,OC5,Service and sales workers,43214
+2021M11,OC7,Craft and related trades workers,41462
+2021M11,OC8,Plant and machine operators and assemblers,18657
+2021M11,OC9,Elementary occupations,20906
+2021M12,OC1,Managers,3716
+2021M12,OC2,Professionals,32179
+2021M12,OC3,Technicians and associate professionals,24047
+2021M12,OC4,Clerical support workers,14691
+2021M12,OC5,Service and sales workers,47540
+2021M12,OC7,Craft and related trades workers,46437
+2021M12,OC8,Plant and machine operators and assemblers,20540
+2021M12,OC9,Elementary occupations,22930
+2022M01,OC1,Managers,3757
+2022M01,OC2,Professionals,31308
+2022M01,OC3,Technicians and associate professionals,23714
+2022M01,OC4,Clerical support workers,14615
+2022M01,OC5,Service and sales workers,49306
+2022M01,OC7,Craft and related trades workers,45317
+2022M01,OC8,Plant and machine operators and assemblers,20164
+2022M01,OC9,Elementary occupations,23163
+2022M02,OC1,Managers,3654
+2022M02,OC2,Professionals,30450
+2022M02,OC3,Technicians and associate professionals,23072
+2022M02,OC4,Clerical support workers,14177
+2022M02,OC5,Service and sales workers,46517
+2022M02,OC7,Craft and related trades workers,44609
+2022M02,OC8,Plant and machine operators and assemblers,19917
+2022M02,OC9,Elementary occupations,22422
+2022M03,OC1,Managers,3495
+2022M03,OC2,Professionals,29042
+2022M03,OC3,Technicians and associate professionals,21843
+2022M03,OC4,Clerical support workers,13421
+2022M03,OC5,Service and sales workers,41980
+2022M03,OC7,Craft and related trades workers,42382
+2022M03,OC8,Plant and machine operators and assemblers,19149
+2022M03,OC9,Elementary occupations,21040
+2022M04,OC1,Managers,3377
+2022M04,OC2,Professionals,28137
+2022M04,OC3,Technicians and associate professionals,21145
+2022M04,OC4,Clerical support workers,12994
+2022M04,OC5,Service and sales workers,39958
+2022M04,OC7,Craft and related trades workers,39308
+2022M04,OC8,Plant and machine operators and assemblers,18526
+2022M04,OC9,Elementary occupations,19813
+2022M05,OC1,Managers,3375
+2022M05,OC2,Professionals,28973
+2022M05,OC3,Technicians and associate professionals,21158
+2022M05,OC4,Clerical support workers,13071
+2022M05,OC5,Service and sales workers,40261
+2022M05,OC7,Craft and related trades workers,37005
+2022M05,OC8,Plant and machine operators and assemblers,17155
+2022M05,OC9,Elementary occupations,18999
+2022M06,OC1,Managers,3440
+2022M06,OC2,Professionals,35153
+2022M06,OC3,Technicians and associate professionals,22711
+2022M06,OC4,Clerical support workers,13532
+2022M06,OC5,Service and sales workers,49559
+2022M06,OC7,Craft and related trades workers,37612
+2022M06,OC8,Plant and machine operators and assemblers,17492
+2022M06,OC9,Elementary occupations,19398
+2022M07,OC1,Managers,3539
+2022M07,OC2,Professionals,37555
+2022M07,OC3,Technicians and associate professionals,23802
+2022M07,OC4,Clerical support workers,13914
+2022M07,OC5,Service and sales workers,53473
+2022M07,OC7,Craft and related trades workers,38348
+2022M07,OC8,Plant and machine operators and assemblers,17965
+2022M07,OC9,Elementary occupations,19967
+2022M08,OC1,Managers,3313
+2022M08,OC2,Professionals,30559
+2022M08,OC3,Technicians and associate professionals,21383
+2022M08,OC4,Clerical support workers,12942
+2022M08,OC5,Service and sales workers,41860
+2022M08,OC7,Craft and related trades workers,36339
+2022M08,OC8,Plant and machine operators and assemblers,16428
+2022M08,OC9,Elementary occupations,18812
+2022M09,OC1,Managers,3217
+2022M09,OC2,Professionals,28989
+2022M09,OC3,Technicians and associate professionals,20763
+2022M09,OC4,Clerical support workers,12770
+2022M09,OC5,Service and sales workers,40673
+2022M09,OC7,Craft and related trades workers,35962
+2022M09,OC8,Plant and machine operators and assemblers,16516
+2022M09,OC9,Elementary occupations,18632
+2022M10,OC1,Managers,3203
+2022M10,OC2,Professionals,28235
+2022M10,OC3,Technicians and associate professionals,20457
+2022M10,OC4,Clerical support workers,12538
+2022M10,OC5,Service and sales workers,40270
+2022M10,OC7,Craft and related trades workers,36625
+2022M10,OC8,Plant and machine operators and assemblers,17047
+2022M10,OC9,Elementary occupations,18925
+2022M11,OC1,Managers,3209
+2022M11,OC2,Professionals,28046
+2022M11,OC3,Technicians and associate professionals,20345
+2022M11,OC4,Clerical support workers,12270
+2022M11,OC5,Service and sales workers,39509
+2022M11,OC7,Craft and related trades workers,38388
+2022M11,OC8,Plant and machine operators and assemblers,17633
+2022M11,OC9,Elementary occupations,19571
+2022M12,OC1,Managers,3330
+2022M12,OC2,Professionals,30572
+2022M12,OC3,Technicians and associate professionals,22016
+2022M12,OC4,Clerical support workers,12840
+2022M12,OC5,Service and sales workers,43599
+2022M12,OC7,Craft and related trades workers,43915
+2022M12,OC8,Plant and machine operators and assemblers,19978
+2022M12,OC9,Elementary occupations,21611
+2023M01,OC1,Managers,3303
+2023M01,OC2,Professionals,29968
+2023M01,OC3,Technicians and associate professionals,21889
+2023M01,OC4,Clerical support workers,12901
+2023M01,OC5,Service and sales workers,42212
+2023M01,OC7,Craft and related trades workers,44439
+2023M01,OC8,Plant and machine operators and assemblers,19966
+2023M01,OC9,Elementary occupations,21860
+2023M02,OC1,Managers,3303
+2023M02,OC2,Professionals,29780
+2023M02,OC3,Technicians and associate professionals,21945
+2023M02,OC4,Clerical support workers,12783
+2023M02,OC5,Service and sales workers,41850
+2023M02,OC7,Craft and related trades workers,45263
+2023M02,OC8,Plant and machine operators and assemblers,20498
+2023M02,OC9,Elementary occupations,21713
+2023M03,OC1,Managers,3340
+2023M03,OC2,Professionals,29421
+2023M03,OC3,Technicians and associate professionals,21423
+2023M03,OC4,Clerical support workers,12561
+2023M03,OC5,Service and sales workers,40839
+2023M03,OC7,Craft and related trades workers,45263
+2023M03,OC8,Plant and machine operators and assemblers,19961
+2023M03,OC9,Elementary occupations,21206
+2023M04,OC1,Managers,3335
+2023M04,OC2,Professionals,29258
+2023M04,OC3,Technicians and associate professionals,21053
+2023M04,OC4,Clerical support workers,12428
+2023M04,OC5,Service and sales workers,40321
+2023M04,OC7,Craft and related trades workers,42556
+2023M04,OC8,Plant and machine operators and assemblers,19120
+2023M04,OC9,Elementary occupations,20388
+2023M05,OC1,Managers,3371
+2023M05,OC2,Professionals,30270
+2023M05,OC3,Technicians and associate professionals,20994
+2023M05,OC4,Clerical support workers,12305
+2023M05,OC5,Service and sales workers,39839
+2023M05,OC7,Craft and related trades workers,39294
+2023M05,OC8,Plant and machine operators and assemblers,17430
+2023M05,OC9,Elementary occupations,18982
+2023M06,OC1,Managers,3546
+2023M06,OC2,Professionals,36277
+2023M06,OC3,Technicians and associate professionals,22742
+2023M06,OC4,Clerical support workers,12891
+2023M06,OC5,Service and sales workers,48759
+2023M06,OC7,Craft and related trades workers,40019
+2023M06,OC8,Plant and machine operators and assemblers,18045
+2023M06,OC9,Elementary occupations,19540
+2023M07,OC1,Managers,3766
+2023M07,OC2,Professionals,38665
+2023M07,OC3,Technicians and associate professionals,23970
+2023M07,OC4,Clerical support workers,13359
+2023M07,OC5,Service and sales workers,52379
+2023M07,OC7,Craft and related trades workers,40901
+2023M07,OC8,Plant and machine operators and assemblers,18883
+2023M07,OC9,Elementary occupations,20269
+2023M08,OC1,Managers,3571
+2023M08,OC2,Professionals,32616
+2023M08,OC3,Technicians and associate professionals,21764
+2023M08,OC4,Clerical support workers,12716
+2023M08,OC5,Service and sales workers,42029
+2023M08,OC7,Craft and related trades workers,39892
+2023M08,OC8,Plant and machine operators and assemblers,17800
+2023M08,OC9,Elementary occupations,19129
+2023M09,OC1,Managers,3598
+2023M09,OC2,Professionals,31504
+2023M09,OC3,Technicians and associate professionals,21706
+2023M09,OC4,Clerical support workers,12738
+2023M09,OC5,Service and sales workers,41352
+2023M09,OC7,Craft and related trades workers,41107
+2023M09,OC8,Plant and machine operators and assemblers,18926
+2023M09,OC9,Elementary occupations,19174
+2023M10,OC1,Managers,3674
+2023M10,OC2,Professionals,31447
+2023M10,OC3,Technicians and associate professionals,22034
+2023M10,OC4,Clerical support workers,12844
+2023M10,OC5,Service and sales workers,41645
+2023M10,OC7,Craft and related trades workers,43664
+2023M10,OC8,Plant and machine operators and assemblers,19826
+2023M10,OC9,Elementary occupations,19936
+2023M11,OC1,Managers,3723
+2023M11,OC2,Professionals,31783
+2023M11,OC3,Technicians and associate professionals,22397
+2023M11,OC4,Clerical support workers,12885
+2023M11,OC5,Service and sales workers,41366
+2023M11,OC7,Craft and related trades workers,47002
+2023M11,OC8,Plant and machine operators and assemblers,20573
+2023M11,OC9,Elementary occupations,21048
+2023M12,OC1,Managers,4030
+2023M12,OC2,Professionals,35313
+2023M12,OC3,Technicians and associate professionals,24802
+2023M12,OC4,Clerical support workers,13723
+2023M12,OC5,Service and sales workers,45544
+2023M12,OC7,Craft and related trades workers,54775
+2023M12,OC8,Plant and machine operators and assemblers,23839
+2023M12,OC9,Elementary occupations,23398
+2024M01,OC1,Managers,3900
+2024M01,OC2,Professionals,34412
+2024M01,OC3,Technicians and associate professionals,24552
+2024M01,OC4,Clerical support workers,13675
+2024M01,OC5,Service and sales workers,44318
+2024M01,OC7,Craft and related trades workers,54378
+2024M01,OC8,Plant and machine operators and assemblers,22929
+2024M01,OC9,Elementary occupations,23197
+2024M02,OC1,Managers,3890
+2024M02,OC2,Professionals,34194
+2024M02,OC3,Technicians and associate professionals,24238
+2024M02,OC4,Clerical support workers,13542
+2024M02,OC5,Service and sales workers,44132
+2024M02,OC7,Craft and related trades workers,54649
+2024M02,OC8,Plant and machine operators and assemblers,22633
+2024M02,OC9,Elementary occupations,23295
+2024M03,OC1,Managers,3830
+2024M03,OC2,Professionals,33830
+2024M03,OC3,Technicians and associate professionals,23957
+2024M03,OC4,Clerical support workers,13362
+2024M03,OC5,Service and sales workers,43191
+2024M03,OC7,Craft and related trades workers,53825
+2024M03,OC8,Plant and machine operators and assemblers,22793
+2024M03,OC9,Elementary occupations,23019
+2024M04,OC1,Managers,3834
+2024M04,OC2,Professionals,33661
+2024M04,OC3,Technicians and associate professionals,23083
+2024M04,OC4,Clerical support workers,13192
+2024M04,OC5,Service and sales workers,42889
+2024M04,OC7,Craft and related trades workers,49838
+2024M04,OC8,Plant and machine operators and assemblers,21362
+2024M04,OC9,Elementary occupations,21706
+2024M05,OC1,Managers,3908
+2024M05,OC2,Professionals,34557
+2024M05,OC3,Technicians and associate professionals,22998
+2024M05,OC4,Clerical support workers,13135
+2024M05,OC5,Service and sales workers,42540
+2024M05,OC7,Craft and related trades workers,45226
+2024M05,OC8,Plant and machine operators and assemblers,19068
+2024M05,OC9,Elementary occupations,20342
+2024M06,OC1,Managers,4152
+2024M06,OC2,Professionals,40800
+2024M06,OC3,Technicians and associate professionals,24996
+2024M06,OC4,Clerical support workers,13770
+2024M06,OC5,Service and sales workers,51801
+2024M06,OC7,Craft and related trades workers,45328
+2024M06,OC8,Plant and machine operators and assemblers,19156
+2024M06,OC9,Elementary occupations,21103
+2024M07,OC1,Managers,4280
+2024M07,OC2,Professionals,42987
+2024M07,OC3,Technicians and associate professionals,26032
+2024M07,OC4,Clerical support workers,14115
+2024M07,OC5,Service and sales workers,56096
+2024M07,OC7,Craft and related trades workers,45392
+2024M07,OC8,Plant and machine operators and assemblers,19629
+2024M07,OC9,Elementary occupations,21844
+2024M08,OC1,Managers,4049
+2024M08,OC2,Professionals,38007
+2024M08,OC3,Technicians and associate professionals,24350
+2024M08,OC4,Clerical support workers,13629
+2024M08,OC5,Service and sales workers,46577
+2024M08,OC7,Craft and related trades workers,44236
+2024M08,OC8,Plant and machine operators and assemblers,18418
+2024M08,OC9,Elementary occupations,20824
+2024M09,OC1,Managers,4055
+2024M09,OC2,Professionals,36957
+2024M09,OC3,Technicians and associate professionals,24470
+2024M09,OC4,Clerical support workers,13757
+2024M09,OC5,Service and sales workers,46616
+2024M09,OC7,Craft and related trades workers,44940
+2024M09,OC8,Plant and machine operators and assemblers,19338
+2024M09,OC9,Elementary occupations,21026
+2024M10,OC1,Managers,4411
+2024M10,OC2,Professionals,37584
+2024M10,OC3,Technicians and associate professionals,24982
+2024M10,OC4,Clerical support workers,13854
+2024M10,OC5,Service and sales workers,47542
+2024M10,OC7,Craft and related trades workers,46366
+2024M10,OC8,Plant and machine operators and assemblers,20270
+2024M10,OC9,Elementary occupations,21522
+2024M11,OC1,Managers,4865
+2024M11,OC2,Professionals,38476
+2024M11,OC3,Technicians and associate professionals,25271
+2024M11,OC4,Clerical support workers,13749
+2024M11,OC5,Service and sales workers,47702
+2024M11,OC7,Craft and related trades workers,49480
+2024M11,OC8,Plant and machine operators and assemblers,21434
+2024M11,OC9,Elementary occupations,22492
+2024M12,OC1,Managers,5865
+2024M12,OC2,Professionals,43348
+2024M12,OC3,Technicians and associate professionals,27100
+2024M12,OC4,Clerical support workers,14627
+2024M12,OC5,Service and sales workers,52604
+2024M12,OC7,Craft and related trades workers,57065
+2024M12,OC8,Plant and machine operators and assemblers,25370
+2024M12,OC9,Elementary occupations,25045
+2025M01,OC1,Managers,6065
+2025M01,OC2,Professionals,44452
+2025M01,OC3,Technicians and associate professionals,27527
+2025M01,OC4,Clerical support workers,15043
+2025M01,OC5,Service and sales workers,53184
+2025M01,OC7,Craft and related trades workers,57837
+2025M01,OC8,Plant and machine operators and assemblers,24663
+2025M01,OC9,Elementary occupations,25726
+2025M02,OC1,Managers,6375
+2025M02,OC2,Professionals,44805
+2025M02,OC3,Technicians and associate professionals,27524
+2025M02,OC4,Clerical support workers,15141
+2025M02,OC5,Service and sales workers,53690
+2025M02,OC7,Craft and related trades workers,58172
+2025M02,OC8,Plant and machine operators and assemblers,24671
+2025M02,OC9,Elementary occupations,25778
+2025M03,OC1,Managers,6541
+2025M03,OC2,Professionals,44489
+2025M03,OC3,Technicians and associate professionals,26987
+2025M03,OC4,Clerical support workers,14966
+2025M03,OC5,Service and sales workers,53110
+2025M03,OC7,Craft and related trades workers,56372
+2025M03,OC8,Plant and machine operators and assemblers,23889
+2025M03,OC9,Elementary occupations,25617
+2025M04,OC1,Managers,6700
+2025M04,OC2,Professionals,44655
+2025M04,OC3,Technicians and associate professionals,26582
+2025M04,OC4,Clerical support workers,14903
+2025M04,OC5,Service and sales workers,52796
+2025M04,OC7,Craft and related trades workers,53316
+2025M04,OC8,Plant and machine operators and assemblers,23104
+2025M04,OC9,Elementary occupations,24682
+2025M05,OC1,Managers,6980
+2025M05,OC2,Professionals,45628
+2025M05,OC3,Technicians and associate professionals,26590
+2025M05,OC4,Clerical support workers,14860
+2025M05,OC5,Service and sales workers,52745
+2025M05,OC7,Craft and related trades workers,50027
+2025M05,OC8,Plant and machine operators and assemblers,21122
+2025M05,OC9,Elementary occupations,23993
+2025M06,OC1,Managers,7359
+2025M06,OC2,Professionals,52066
+2025M06,OC3,Technicians and associate professionals,28065
+2025M06,OC4,Clerical support workers,15130
+2025M06,OC5,Service and sales workers,61764
+2025M06,OC7,Craft and related trades workers,49756
+2025M06,OC8,Plant and machine operators and assemblers,21155
+2025M06,OC9,Elementary occupations,24610
+2025M07,OC1,Managers,7822
+2025M07,OC2,Professionals,54561
+2025M07,OC3,Technicians and associate professionals,28753
+2025M07,OC4,Clerical support workers,15465
+2025M07,OC5,Service and sales workers,64577
+2025M07,OC7,Craft and related trades workers,49317
+2025M07,OC8,Plant and machine operators and assemblers,21276
+2025M07,OC9,Elementary occupations,24971
+2025M08,OC1,Managers,7519
+2025M08,OC2,Professionals,48686
+2025M08,OC3,Technicians and associate professionals,26927
+2025M08,OC4,Clerical support workers,14863
+2025M08,OC5,Service and sales workers,54835
+2025M08,OC7,Craft and related trades workers,47400
+2025M08,OC8,Plant and machine operators and assemblers,19825
+2025M08,OC9,Elementary occupations,23971
+2025M09,OC1,Managers,7541
+2025M09,OC2,Professionals,47647
+2025M09,OC3,Technicians and associate professionals,27209
+2025M09,OC4,Clerical support workers,14806
+2025M09,OC5,Service and sales workers,54844
+2025M09,OC7,Craft and related trades workers,47602
+2025M09,OC8,Plant and machine operators and assemblers,20453
+2025M09,OC9,Elementary occupations,24200
+2025M10,OC1,Managers,7736
+2025M10,OC2,Professionals,48098
+2025M10,OC3,Technicians and associate professionals,27648
+2025M10,OC4,Clerical support workers,14816
+2025M10,OC5,Service and sales workers,55799
+2025M10,OC7,Craft and related trades workers,48926
+2025M10,OC8,Plant and machine operators and assemblers,21471
+2025M10,OC9,Elementary occupations,25059
+2025M11,OC1,Managers,7764
+2025M11,OC2,Professionals,49119
+2025M11,OC3,Technicians and associate professionals,27772
+2025M11,OC4,Clerical support workers,14726
+2025M11,OC5,Service and sales workers,55558
+2025M11,OC7,Craft and related trades workers,50974
+2025M11,OC8,Plant and machine operators and assemblers,22650
+2025M11,OC9,Elementary occupations,26167
+2025M12,OC1,Managers,8516
+2025M12,OC2,Professionals,53411
+2025M12,OC3,Technicians and associate professionals,30186
+2025M12,OC4,Clerical support workers,15388
+2025M12,OC5,Service and sales workers,60271
+2025M12,OC7,Craft and related trades workers,58562
+2025M12,OC8,Plant and machine operators and assemblers,27135
+2025M12,OC9,Elementary occupations,28721
+2026M01,OC1,Managers,8354
+2026M01,OC2,Professionals,53599
+2026M01,OC3,Technicians and associate professionals,29949
+2026M01,OC4,Clerical support workers,15359
+2026M01,OC5,Service and sales workers,58976
+2026M01,OC7,Craft and related trades workers,57799
+2026M01,OC8,Plant and machine operators and assemblers,25644
+2026M01,OC9,Elementary occupations,28683
+2026M02,OC1,Managers,8368
+2026M02,OC2,Professionals,53285
+2026M02,OC3,Technicians and associate professionals,29888
+2026M02,OC4,Clerical support workers,15375
+2026M02,OC5,Service and sales workers,59538
+2026M02,OC7,Craft and related trades workers,58198
+2026M02,OC8,Plant and machine operators and assemblers,25851
+2026M02,OC9,Elementary occupations,28899
+2026M03,OC1,Managers,8379
+2026M03,OC2,Professionals,52389
+2026M03,OC3,Technicians and associate professionals,29317
+2026M03,OC4,Clerical support workers,15251
+2026M03,OC5,Service and sales workers,58714
+2026M03,OC7,Craft and related trades workers,56286
+2026M03,OC8,Plant and machine operators and assemblers,25315
+2026M03,OC9,Elementary occupations,28315
+2026M04,OC1,Managers,8319
+2026M04,OC2,Professionals,51913
+2026M04,OC3,Technicians and associate professionals,28779
+2026M04,OC4,Clerical support workers,15205
+2026M04,OC5,Service and sales workers,58422
+2026M04,OC7,Craft and related trades workers,52401
+2026M04,OC8,Plant and machine operators and assemblers,23780
+2026M04,OC9,Elementary occupations,26855
+2026M05,OC1,Managers,8341
+2026M05,OC2,Professionals,52079
+2026M05,OC3,Technicians and associate professionals,28329
+2026M05,OC4,Clerical support workers,15072
+2026M05,OC5,Service and sales workers,57962
+2026M05,OC7,Craft and related trades workers,48859
+2026M05,OC8,Plant and machine operators and assemblers,21588
+2026M05,OC9,Elementary occupations,25791
+2026M06,OC1,Managers,8840
+2026M06,OC2,Professionals,59266
+2026M06,OC3,Technicians and associate professionals,29832
+2026M06,OC4,Clerical support workers,15484
+2026M06,OC5,Service and sales workers,67869
+2026M06,OC7,Craft and related trades workers,48660
+2026M06,OC8,Plant and machine operators and assemblers,21664
+2026M06,OC9,Elementary occupations,26354
+2026M07,OC1,Managers,9299
+2026M07,OC2,Professionals,61873
+2026M07,OC3,Technicians and associate professionals,30624
+2026M07,OC4,Clerical support workers,15700
+2026M07,OC5,Service and sales workers,71322
+2026M07,OC7,Craft and related trades workers,48080
+2026M07,OC8,Plant and machine operators and assemblers,21840
+2026M07,OC9,Elementary occupations,26954
